@@ -1,0 +1,116 @@
+@media screen and (max-width: 768px) {
+  .nav-box3 {
+    display: none;
+  }
+  .nav-ancer {
+    display: none;
+  }
+  .section1-img1 {
+    position: relative;
+    left: 3%;
+    width: 100%;
+  }
+  .container-1 {
+    padding: 0 50px;
+  }
+  .section1-text1 {
+    width: 100%;
+    text-align: center;
+  }
+  .section1-text2 {
+    width: 100%;
+    text-align: center;
+  }
+  .section1-border1{
+      text-align: center;
+  }
+  .section-btn {
+    margin-left: 3rem;
+    text-align: center;
+  }
+  .nav-menu {
+    position: relative;
+    opacity: 1;
+    background-color: #6c63ff;
+    width: 60px;
+    height: 30px;
+    border-radius: 32px;
+    margin-top: 0.5rem;
+    left: 25%;
+  }
+  .section2-text2{
+    font-size: 25px;
+    width: 80%;
+    margin: 0 auto;
+}
+.container-2{
+    padding:2rem ;
+}
+.section2-text4{
+    margin-bottom: 9rem;
+}
+.section3-img1{
+    width: 90%;
+    margin-left: 10%;
+    position: relative;
+    top: 25rem;
+}
+.section3{
+    text-align: center;
+}
+.section3-text1{
+    width: 100%;
+}
+.section3-text2{
+    width: 100%;
+}
+.section3-box{
+    position: relative;
+    bottom: 38rem;
+    margin-left: 0;
+}
+.section3-img2{
+    position: relative;
+    top: 35rem;
+}
+.container-3{
+    padding: 0 5%;
+}
+.sec4-box:nth-child(3){
+    margin-bottom: 4rem;
+}
+.section5-text1{
+  width: 100%;
+}
+.sec5-boxs{
+  height: 250px;
+  margin-left: 10%;
+}
+.container-5{
+  padding: 0 30px;
+}
+.footer-contacts{
+  margin-left: 12%;
+  width: 80%;
+}
+.footer-text1{
+  width: 100%;
+  text-align: center;
+}
+.foot-logo{
+  text-align: center;
+}
+}
+@media screen and (max-width: 550px){
+  .footer-grid{
+    display: grid;
+    grid-template-columns: 40% 40% 30%;
+    grid-template-rows: 70px 70px 70px 70px 70px;
+  }
+}
+@media screen and (max-width: 508px)
+{
+  .sec5-boxs{
+    height: 50%;
+  }
+}
